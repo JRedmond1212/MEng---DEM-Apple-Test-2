@@ -1,0 +1,6 @@
+streamlit>=1.36,<2
+simpy>=4.1
+pandas>=2.2,<3
+numpy>=1.26
+matplotlib>=3.9,<3.10
+requests>=2.31
